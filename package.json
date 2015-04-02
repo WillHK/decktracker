@@ -1,0 +1,29 @@
+{
+  "name": "decktracker",
+  "version": "0.0.2",
+  "description": "hearthstone deck tracker, only tracks the one deck specified in code",
+  "main": "decktracker.js",
+  "dependencies": {
+    "hearthstone-log-watcher": "^1.2.1",
+    "superagent": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WillHK/decktracker.git"
+  },
+  "keywords": [
+    "hearthstone",
+    "deck",
+    "tracker"
+  ],
+  "author": "Will Haeck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WillHK/decktracker/issues"
+  },
+  "homepage": "https://github.com/WillHK/decktracker"
+}
